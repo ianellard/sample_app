@@ -1,0 +1,4 @@
+def anagrammer(word)
+  if word.length = 1
+    puts
+  
